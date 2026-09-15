@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 .metadata
 bin
 .class
 .settings
+=======
+.metadata/
+bin/
+*.class
+.settings/
+>>>>>>> 6bfcee119581df8b417272dfd86cd7244568de6b
 .classpath
 .project
