@@ -1,13 +1,21 @@
-<<<<<<< HEAD
-.metadata
-bin
-.class
-.settings
-=======
+# Eclipse 프로젝트 설정 파일 및 디렉토리
 .metadata/
-bin/
-*.class
-.settings/
->>>>>>> 6bfcee119581df8b417272dfd86cd7244568de6b
 .classpath
 .project
+.settings/
+bin/
+
+# Java 컴파일 클래스 파일
+*.class
+
+# Visual Studio 및 C/C++ 컴파일 부산물 (필요 시)
+x64/
+Debug/
+Release/
+.vs/
+*.exe
+*.obj
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
