@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
+<<<<<<< HEAD
 	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="724"/>
 		<item key="DIALOG_Y_ORIGIN" value="392"/>
@@ -11,6 +12,11 @@
 			<item value="Game"/>
 			<item value="현재 모드"/>
 			<item value="cal"/>
+=======
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+>>>>>>> c9c8ccc508df54fc965e57805e0536ed0efb5eef
 		</list>
 	</section>
 </section>

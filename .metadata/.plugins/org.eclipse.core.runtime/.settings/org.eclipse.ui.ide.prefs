@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=always
+=======
+>>>>>>> c9c8ccc508df54fc965e57805e0536ed0efb5eef
 eclipse.preferences.version=1
 platformState=1753090553276760
 quickStart=false

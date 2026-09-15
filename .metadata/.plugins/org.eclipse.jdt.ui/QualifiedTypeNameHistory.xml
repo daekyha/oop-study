@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="Average"/>
     <fullyQualifiedTypeName name="javax.swing.JTextField"/>
     <fullyQualifiedTypeName name="FindDayOfWeek"/>
@@ -37,4 +38,23 @@
     <fullyQualifiedTypeName name="boolean"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+=======
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.controller.MemberController"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.dao.MemberDao"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.controller.ArticleController"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.controller.Controller"/>
+    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.dto.Member"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.dto.Article"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.dao.ArticleDao"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.service.MemberService"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.service.ArticleService"/>
+    <fullyQualifiedTypeName name="java.awt.Container"/>
+    <fullyQualifiedTypeName name="com.koreaIT.JAM.container.Container"/>
+>>>>>>> c9c8ccc508df54fc965e57805e0536ed0efb5eef
 </qualifiedTypeNameHistroy>
