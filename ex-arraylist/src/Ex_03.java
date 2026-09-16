@@ -25,6 +25,6 @@ public class Ex_03 {
 		
 		System.out.println("\n가장 긴 이름은 "+a.get(longindex));
 		
-		
+		sc.close();
 	}
 }

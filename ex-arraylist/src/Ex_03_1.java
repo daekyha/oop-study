@@ -64,6 +64,7 @@ public class Ex_03_1 {
 			sum+=it.next();
 		}
 		System.out.println("총 합" + sum);
+		sc.close();
 //		
 //		System.out.println("==============================");
 //		System.out.println("[Iterator]");

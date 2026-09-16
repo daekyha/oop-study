@@ -1,4 +1,3 @@
-import java.lang.ref.Cleaner.Cleanable;
 import java.util.Calendar;
 
 public class Ex_11 {

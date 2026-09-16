@@ -173,7 +173,7 @@ public class Game {
 					}
 				}
 				user[find_index].printScore(user);
-				
+				sc.close();	
 			}
 		}
 	}
